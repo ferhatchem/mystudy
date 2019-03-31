@@ -9,6 +9,8 @@ public class Restaurant
    * of the Restaurant class.
    */
   public static void main(String[] args)
+  //this is my second commit
+  //this will be shown only after I commit!
   {
     Map<String, Beverage> menu = new HashMap<String, Beverage>();
 
