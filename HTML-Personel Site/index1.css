@@ -1,0 +1,33 @@
+
+
+h1{
+  color: green;
+  font-size: 100px;
+
+}
+img:hover{
+  background-color:gold;
+}
+
+.seftali{
+  background-color: green;
+}
+.aubergine{
+  background-color: orange;
+}
+  .triangle{
+    border-radius:100%;
+  }
+
+#heading{
+  color:green;
+}
+#seading{
+  color:red;
+}
+#neading{
+  color:yellow;
+}
+#reading{
+  color:yellow;
+}
